@@ -137,9 +137,10 @@ From `requirements.txt`:
 
 ## ✅ Example Chat Log
 
-```
+
 
 ![Ekran görüntüsü](images/Ekran görüntüsü 2025-09-28 214446.png)
+
 
 
 
