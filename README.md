@@ -139,7 +139,7 @@ From `requirements.txt`:
 
 ```
 
-![Ekran görüntüsü 2025-09-28 214446.png](https://github.com/user-attachments/assets/074c77e4-ba26-40dc-aef9-441a92a0d915)
+![Ekran görüntüsü 2025-09-28 214446.png]([https://github.com/user-attachments/assets/074c77e4-ba26-40dc-aef9-441a92a0d915](https://github.com/ilaydaasar/Custom-GPT-2-Chatbot-Project/blob/50f31ba2e6cae6b69273c5685c01a2afcc014c66/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-09-28%20214446.png))
 
 
 ```
