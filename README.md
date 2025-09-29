@@ -4,7 +4,7 @@ This project implements a **customizable GPT-2 based chatbot** using the Hugging
 The model is optimized for a specific persona or task through fine-tuning on a custom conversation dataset (`data/custom_chat_data.json`).  
 It leverages PyTorch for GPU-accelerated training and generation, ensuring **real-time response capabilities** within a console environment.  
 
-The architecture uses a **hybrid approach**, where specialized services (`JokeManager`, `PoemDatabase`) handle complex tasks, with optional integration to external LLM APIs (e.g., Gemini) for enhanced creative output.
+The architecture uses a **hybrid approach**, where specialized services (`JokeManager`, `PoemDatabase`) handle complex tasks, with optional integration to external LLM APIs  for enhanced creative output.
 
 ---
 
@@ -138,21 +138,12 @@ From `requirements.txt`:
 ## ✅ Example Chat Log
 
 ```
-You: tell me a joke
-Bot: Knock knock!
-You: Who's there?
-Bot: Lettuce.
-You: Lettuce who?
-Bot: Lettuce in, it’s cold out here! 😂
 
-You: write a poem
-Bot: Roses are red,
-     Violets are blue,
-     GPT-2 is learning,
-     To chat with you!
+<img width="836" height="363" alt="Ekran görüntüsü 2025-09-28 214446" src="https://github.com/user-attachments/assets/074c77e4-ba26-40dc-aef9-441a92a0d915" />
+
+
 ```
 
----
 
 ## ✅ Future Improvements
 
