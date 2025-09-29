@@ -1,4 +1,3 @@
-[custom_gpt_2_chatbot_readme.md](https://github.com/user-attachments/files/22592008/custom_gpt_2_chatbot_readme.md)
 # 💬 Custom GPT-2 Chatbot Project
 
 This project implements a **customizable GPT-2 based chatbot** using the Hugging Face Transformers library.  
