@@ -126,7 +126,6 @@ python demo.py
 
 ## 📜 Core Dependencies
 
-From `requirements.txt`:
 
 - `transformers` → Hugging Face model/tokenizer/fine-tuning  
 - `torch` → PyTorch backend (GPU acceleration)  
