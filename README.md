@@ -139,7 +139,7 @@ From `requirements.txt`:
 
 
 
-![Ekran görüntüsü](images/Ekran görüntüsü 2025-09-28 214446.png)
+![Ekran görüntüsü](images/sample.png)
 
 
 
