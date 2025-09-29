@@ -23,10 +23,6 @@ The architecture uses a **hybrid approach**, where specialized services (`JokeMa
 - Python **3.8+**
 - GPU (**highly recommended** for fine-tuning)
 
-### Installation
-```bash
-pip install -r requirements.txt
-```
 
 ---
 
