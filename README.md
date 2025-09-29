@@ -120,7 +120,7 @@ python demo.py
 ### Special Commands
 
 - `poem / write a poem` → Poem service  
-- `joke / tell me a joke` → Joke flow (waits for "why")  
+- `joke / tell me a joke` → Joke flow   
 
 ---
 
