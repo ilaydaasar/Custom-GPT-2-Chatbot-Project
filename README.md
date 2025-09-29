@@ -4,7 +4,7 @@ This project implements a **customizable GPT-2 based chatbot** using the Hugging
 The model is optimized for a specific persona or task through fine-tuning on a custom conversation dataset (`data/custom_chat_data.json`).  
 It leverages PyTorch for GPU-accelerated training and generation, ensuring **real-time response capabilities** within a console environment.  
 
-The architecture uses a **hybrid approach**, where specialized services (`JokeManager`, `PoemDatabase`) handle complex tasks, with optional integration to external LLM APIs  for enhanced creative output.
+The architecture uses a **hybrid approach**, where specialized services handle complex tasks, with optional integration to external LLM APIs  for enhanced creative output.
 
 ---
 
