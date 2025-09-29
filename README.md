@@ -139,7 +139,7 @@ From `requirements.txt`:
 
 ```
 
-<img width="836" height="363" alt="Ekran görüntüsü 2025-09-28 214446" src="https://github.com/user-attachments/assets/074c77e4-ba26-40dc-aef9-441a92a0d915" />
+![Ekran görüntüsü 2025-09-28](https://github.com/user-attachments/assets/074c77e4-ba26-40dc-aef9-441a92a0d915)
 
 
 ```
